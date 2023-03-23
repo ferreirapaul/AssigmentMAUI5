@@ -1,0 +1,240 @@
+[
+	{
+		"name": "Stark",
+		"image": "https://i.imgur.com/y40lNbP.png",
+		"characters": [
+			"Arya Stark",
+			"Benjen Stark",
+			"Bran Stark",
+			"Catelyn Stark",
+			"Eddard Stark",
+			"Ghost",
+			"Grey Wind",
+			"Jon Snow",
+			"Lady",
+			"Nymeria",
+			"Rickon Stark",
+			"Robb Stark",
+			"Sansa Stark",
+			"Shaggydog",
+			"Summer"
+		]
+	},
+	{
+		"name": "Targaryen",
+		"image": "https://i.imgur.com/mocbciw.png",
+		"characters": [
+			"Daenerys Targaryen",
+			"Drogon",
+			"Rhaegal",
+			"Viserion",
+			"Viserys Targaryen"
+		]
+	},
+	{
+		"name": "Baratheon",
+		"image": "https://i.imgur.com/evYnDao.png",
+		"characters": [
+			"Joffrey Baratheon",
+			"Myrcella Baratheon",
+			"Renly Baratheon",
+			"Robert Baratheon",
+			"Selyse Baratheon",
+			"Shireen Baratheon",
+			"Stannis Baratheon",
+			"Tommen Baratheon",
+			"Gendry"
+		]
+	},
+	{
+		"name": "Lannister",
+		"image": "https://i.imgur.com/bwlNtjj.png",
+		"characters": [
+			"Cersei Lannister",
+			"Jaime Lannister",
+			"Kevan Lannister",
+			"Lancel Lannister",
+			"Tyrion Lannister",
+			"Tywin Lannister"
+		]
+	},
+	{
+		"name": "Night's Watch",
+		"image": "https://i.imgur.com/Ywms7BR.png",
+		"characters": [
+			"Alliser Thorne",
+			"Eddison Tollett",
+			"Grenn",
+			"Jeor Mormont",
+			"Karl Tanner",
+			"Maester Aemon",
+			"Olly",
+			"Othell Yarwyck",
+			"Pypar",
+			"Qhorin Halfhand",
+			"Rast",
+			"Samwell Tarly",
+			"Yoren"
+		]
+	},
+	{
+		"name": "Dothraki",
+		"image": "https://i.imgur.com/6rQ74RZ.png",
+		"characters": [
+			"Doreah",
+			"Irri",
+			"Khal Drogo",
+			"Rakharo",
+			"Qhono"
+		]
+	},
+	{
+		"name": "Greyjoy",
+		"image": "https://i.imgur.com/tmGmOVR.png",
+		"characters": [
+			"Balon Greyjoy",
+			"Euron Greyjoy",
+			"Theon Greyjoy",
+			"Yara Greyjoy"
+		]
+	},
+	{
+		"name": "Tyrell",
+		"image": "https://i.imgur.com/evYnDao.png",
+		"characters": [
+			"Loras Tyrell",
+			"Mace Tyrell",
+			"Margaery Tyrell",
+			"Olenna Tyrell"
+		]
+	},
+	{
+		"name": "Wildlings",
+		"image": "https://i.imgur.com/F9FtIez.png",
+		"characters": [
+			"Baby Sam",
+			"Craster",
+			"Gilly",
+			"Mag the Mighty",
+			"Mance Rayder",
+			"Osha",
+			"Rattleshirt",
+			"Thenn Warg",
+			"Tormund Giantsbane",
+			"Wun Wun",
+			"Ygritte"
+		]
+	},
+	{
+		"name": "Martell",
+		"image": "https://i.imgur.com/zxpsqeW.png",
+		"characters": [
+			"Doran Martell",
+			"Ellaria Sand",
+			"Nymeria Sand",
+			"Obara Sand",
+			"Oberyn Martell",
+			"Trystane Martell",
+			"Tyene Sand"
+		]
+	},
+	{
+		"name": "Frey",
+		"image": "https://i.imgur.com/I3YI1dn.png",
+		"characters": [
+			"Black Walder Rivers",
+			"Lothar Frey",
+			"Walder Frey"
+		]
+	},
+	{
+		"name": "Tully",
+		"image": "https://i.imgur.com/q0HXgBM.png",
+		"characters": [
+			"Brynden Tully",
+			"Edmure Tully"
+		]
+	},
+	{
+		"name": "White Walkers",
+		"image": "https://i.imgur.com/BNY7LuB.png",
+		"characters": [
+			"Mag the Mighty Wight",
+			"The Night King",
+			"White Walker",
+			"Wight Wildling Girl",
+			"Wun Wun Wight"
+		]
+	},
+	{
+		"name": "Others",
+		"image": "https://i.imgur.com/JNo2tr4.png",
+		"characters": [
+			"Archmaester Ebrose",
+			"Barristan Selmy",
+			"Beric Dondarrion",
+			"Brienne of Tarth",
+			"Bronn",
+			"Daario Naharis",
+			"Davos Seaworth",
+			"Gendry",
+			"Grand Maester Pycelle",
+			"Greatjon Umber",
+			"Gregor Clegane",
+			"Greizhen mo Ullhor",
+			"Grey Worm",
+			"Hallyne",
+			"High Sparrow",
+			"Hizdahr zo Loraq",
+			"Hodor",
+			"Hot Pie",
+			"Janos Slynt",
+			"Jaqen H'ghar",
+			"Jojen Reed",
+			"Jorah Mormont",
+			"Jory Cassel",
+			"Kraznys mo Nakloz",
+			"Lady Crane",
+			"Leaf",
+			"Locke",
+			"Lommy Greenhands",
+			"Lord Varys",
+			"Lyanna Mormont",
+			"Lysa Arryn",
+			"Maester Luwin",
+			"Matthos Seaworth",
+			"Meera Reed",
+			"Melisandre",
+			"Mirri Maz Duur",
+			"Missandei",
+			"Olyvar",
+			"Petyr Baelish",
+			"Podrick Payne",
+			"Prendahl na Ghezn",
+			"Pyat Pree",
+			"Qyburn",
+			"Ramsay Snow",
+			"Razdal mo Eraz",
+			"Rickard Karstark",
+			"Robin Arryn",
+			"Rodrik Cassel",
+			"Roose Bolton",
+			"Ros",
+			"Salladhor Saan",
+			"Sandor Clegane",
+			"Septa Mordane",
+			"Septa Unella",
+			"Shae",
+			"Silk King",
+			"Smalljon Umber",
+			"Syrio Forel",
+			"Talisa Maegyr",
+			"The Waif",
+			"Thoros of Myr",
+			"Three-Eyed Raven",
+			"Xaro Xhoan Daxos",
+			"Yezzan zo Qaggaz",
+			"Yohn Royce"
+		]
+	}
+]
