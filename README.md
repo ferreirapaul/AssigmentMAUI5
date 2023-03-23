@@ -5,7 +5,10 @@ For the detail page I used a list view because the famillys have different size.
 The JSON file is stored locally but the pictures of the houses is store inside imgur.com.
 I disabled the location functionally because I was impossible to put a location of fiction familly.
 
+
 The screeens:
+
+
 ![Screenshot](Screens/screen_1.png)
 ![Screenshot](Screens/screen_2.png)
 ![Screenshot](Screens/screen_3.png)
